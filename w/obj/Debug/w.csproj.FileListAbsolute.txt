@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\w\w\obj\Debug\w.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\w\w\obj\Debug\w.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\w\w\obj\Debug\w.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\w\w\obj\Debug\w.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\w\w\obj\Debug\w.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\w\w\obj\Debug\w.csproj.CoreCompileInputs.cache
